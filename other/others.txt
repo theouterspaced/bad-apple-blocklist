@@ -6,6 +6,7 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Hosts/Apple
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Apple
 https://raw.githubusercontent.com/eli86x/blocklist-pihole/main/apple-telemetry-block
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.apple.txt
 https://raw.githubusercontent.com/kcl3nt/KCL3NTS_DNS_BLACKLIST/main/IOT/apple_urls.txt
 https://raw.githubusercontent.com/liamengland1/mischosts/master/apple-telemetry

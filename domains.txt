@@ -115,6 +115,8 @@ diagassets.g.aaplimg.com
 diagnostics.apple.com
 diagnostics.apple.com.akadns.net
 dlc.nike.com.edgekey.net.globalredir.akadns.net
+dns.applewebkit.dev
+doh-dns-apple-com.v.aaplimg.com
 doh.dns.apple.com
 doh.dns.apple.com.v.aaplimg.com
 dw-cbsi.cnet-basic-performance.akadns.net

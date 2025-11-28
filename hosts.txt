@@ -115,6 +115,8 @@
 0.0.0.0 diagnostics.apple.com
 0.0.0.0 diagnostics.apple.com.akadns.net
 0.0.0.0 dlc.nike.com.edgekey.net.globalredir.akadns.net
+0.0.0.0 dns.applewebkit.dev
+0.0.0.0 doh-dns-apple-com.v.aaplimg.com
 0.0.0.0 doh.dns.apple.com
 0.0.0.0 doh.dns.apple.com.v.aaplimg.com
 0.0.0.0 dw-cbsi.cnet-basic-performance.akadns.net
