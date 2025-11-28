@@ -1,7 +1,7 @@
-# November 2025
-# This is one iPhone user's Apple telemetry and other-stuff blocklist.
-# github.com/theouterspaced/bad-apple-blocklist
-##
+! November 2025
+! This is one iPhone user's Apple telemetry and other-stuff blocklist.
+! github.com/theouterspaced/bad-apple-blocklist
+!
 ||ab.apple.com.akadns.net^
 ||accertify.mzstatic.com^
 ||acfeedbackws.icloud.com^
