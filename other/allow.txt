@@ -1,0 +1,16 @@
+# allow.txt
+amp-api-edge.apps.apple.com
+amp-api-updates.apps.apple.com
+bag.itunes.apple.com
+fpinit.itunes.apple.com
+gateway.apple.com
+gateway.icloud.com
+gdmf.apple.com
+gs.apple.com
+gsp-ssl.ls.apple.com
+pd.itunes.apple.com
+push.apple.com
+speedysub.itunes.apple.com
+updates.cdn-apple.com
+# also remove any that SERVFAIL...
+
