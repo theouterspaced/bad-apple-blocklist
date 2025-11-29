@@ -11,6 +11,7 @@ gdmf.apple.com
 gs.apple.com
 gsp-ssl.ls.apple.com
 icloud.com
+itunes.com
 itunes.apple.com
 pd.itunes.apple.com
 push.apple.com
@@ -19,4 +20,3 @@ updates.cdn-apple.com
 www.apple.com
 www.icloud.com
 # remove any that SERVFAIL...
-
