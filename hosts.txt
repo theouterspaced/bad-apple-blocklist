@@ -1193,7 +1193,6 @@
 0.0.0.0 sp11p03sa.guzzoni-apple.com.akadns.net
 0.0.0.0 ssl.apple.com
 0.0.0.0 ssl.google-analytics.com
-0.0.0.0 ssl.google−analytics.com
 0.0.0.0 st14p02sa.guzzoni-apple.com.akadns.net
 0.0.0.0 static.cdn-apple.com
 0.0.0.0 static.deviceservices.apple.com
