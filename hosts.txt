@@ -55,6 +55,7 @@
 0.0.0.0 beacon.shazam.com
 0.0.0.0 bn2-client-s.msnmessenger.msn.com.akadns.net
 0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 bpapi.v.aaplimg.com
 0.0.0.0 browser-intake-datadoghq.com
 0.0.0.0 buy.apps.apple.com
 0.0.0.0 ca.iadsdk.apple.com
@@ -108,6 +109,7 @@
 0.0.0.0 desktop-store.itunes.apple.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 device-metrics.apple.com
+0.0.0.0 deviceservices-external.apple.com
 0.0.0.0 devimages-cdn.apple.com
 0.0.0.0 df6ed.apple.com
 0.0.0.0 diagassets-lb.apple.com.akadns.net
@@ -165,6 +167,7 @@
 0.0.0.0 gblon.ce.apple-dns.net
 0.0.0.0 gbman.ce.apple-dns.net
 0.0.0.0 gcs-eu-00002.content-storage-download.googleapis.com
+0.0.0.0 gg.apple.com
 0.0.0.0 gil.apple.com.akadns.net
 0.0.0.0 gir.apple.com
 0.0.0.0 growth-pa.googleapis.com
@@ -199,6 +202,7 @@
 0.0.0.0 idiagnostics-mdn1.apple.com
 0.0.0.0 idiagnostics.apple.com
 0.0.0.0 idiagnostics.apple.com.akadns.net
+0.0.0.0 ig.apple.com
 0.0.0.0 inappcheck.itunes.apple.com
 0.0.0.0 init-p01md.apple.com
 0.0.0.0 init.gc.apple.com
@@ -276,6 +280,8 @@
 0.0.0.0 ontology.health.apple.com
 0.0.0.0 origin.guzzoni-apple.com.akadns.net
 0.0.0.0 origin.seed-siri-apple.com.akadns.net
+0.0.0.0 oscdn.apple.com
+0.0.0.0 osrecovery.apple.com
 0.0.0.0 outsideapple.apple.com
 0.0.0.0 outsideapple.apple.com.akadns.net
 0.0.0.0 p01-fmfmobile.icloud.com
@@ -1186,6 +1192,7 @@
 0.0.0.0 siri-search.itunes.apple.com
 0.0.0.0 siri.apple.com
 0.0.0.0 sitemaps.itunes.apple.com
+0.0.0.0 skl.apple.com
 0.0.0.0 smoot-feedback.v.aaplimg.com
 0.0.0.0 smoot.apple.com
 0.0.0.0 smp-device-content.apple.com
@@ -1209,12 +1216,15 @@
 0.0.0.0 supportmetrics.apple-support.akadns.net
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 supportmetrics.v.aaplimg.com
+0.0.0.0 swcdn.apple.com
 0.0.0.0 swcdn.apple.com.akadns.net
 0.0.0.0 swdist.apple.com
 0.0.0.0 swdlp-static.apple.com
 0.0.0.0 swdlp.apple.com
+0.0.0.0 swdownload.apple.com
 0.0.0.0 swpost.apple.com
 0.0.0.0 swscan-cdn.apple.com.akadns.net
+0.0.0.0 swscan.apple.com
 0.0.0.0 tbsc.apple.com
 0.0.0.0 tbsc.apple.com.akadns.net
 0.0.0.0 td1.apple.com
@@ -1229,6 +1239,7 @@
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 trackingshipment.apple.com
 0.0.0.0 turn.gc.apple.com
+0.0.0.0 updates-http.cdn-apple.com
 0.0.0.0 updates.g.aaplimg.com
 0.0.0.0 upp.itunes.apple.com
 0.0.0.0 usbos.ce.apple-dns.net
@@ -1247,6 +1258,7 @@
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 web-experience.itunes.apple.com
 0.0.0.0 webservices.mac.com
+0.0.0.0 ws-ee-maidsvc.icloud.com
 0.0.0.0 wu-calculator.apple.com
 0.0.0.0 wu-charts.apple.com
 0.0.0.0 wu-converter.apple.com
