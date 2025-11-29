@@ -50,6 +50,7 @@ apps.itunes-nocookie.com
 apsu.apple.com
 attwifi.apple.com
 autolinkmaker.itunes.apple.com
+banners.itunes.apple.com
 basejumper.apple.com
 beacon.shazam.com
 bn2-client-s.msnmessenger.msn.com.akadns.net
@@ -205,7 +206,6 @@ ink.apple.com
 internalcheck.apple.com
 iphone-id.apple.com
 iphone-ld.apple.com
-iphone-ld.apple.com
 iphone-services.apple.com
 iphone-wu.apple.com
 iphonesubmissions-old.apple.com
@@ -215,7 +215,6 @@ iphonesubmissions.v.aaplimg.com
 iprofiles.apple.com
 isg-apple.com.akadns.net
 itc.mzstatic.com
-itunes.apple.com
 itunes.apple.com.edgekey.net
 itunesconnect.apple.com
 itunesu.itunes.apple.com
@@ -267,6 +266,10 @@ news-sports-events.apple.com
 news.iadsdk.apple.com
 notes-analytics-events.apple.com
 ns.itunes.apple.com
+nserver.apple.com
+nserver.asia.apple.com
+nserver.euro.apple.com
+nserver2.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp2.g.aaplimg.com
 odin-signals.apple.com
@@ -1125,6 +1128,7 @@ pd-st.itunes.apple.com
 pdate.googleapis.com
 performance-partners.apple.com
 phobos.apple.com
+phobos.apple.com.lp.mydas.mobi
 phonesubmissions.apple.com
 pipe.cloudapp.aria.akadns.net
 pipe.prd.skypedata.akadns.net
