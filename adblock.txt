@@ -38,8 +38,6 @@
 ||app-measurement.com^
 ||app-site-association.cdn-apple.com^
 ||appldnld.apple.com^
-||apple-dns.net^
-||apple.com.edgekey.net^
 ||apple.com.edgekey.net.globalredir.akadns.net^
 ||appleglobal.102.112.2o7.net^
 ||appleglobal.112.2o7.net^
