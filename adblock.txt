@@ -216,7 +216,7 @@
 ||iprofiles.apple.com^
 ||isg-apple.com.akadns.net^
 ||itc.mzstatic.com^
-||itunes.apple.com.edgekey.net^
+## ||itunes.apple.com.edgekey.net^
 ||itunesconnect.apple.com^
 ||itunesu.itunes.apple.com^
 ||launch.apple.com^
