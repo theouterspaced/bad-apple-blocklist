@@ -161,7 +161,6 @@
 ||friend.gc.apple.com^
 ||ftreporter.push.apple.com^
 ||gateway-carry.icloud.com^
-||gateway.fe2.apple-dns.net^
 ||gblon.ce.apple-dns.net^
 ||gbman.ce.apple-dns.net^
 ||gcs-eu-00002.content-storage-download.googleapis.com^
