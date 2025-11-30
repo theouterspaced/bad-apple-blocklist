@@ -16,6 +16,7 @@ gsp-ssl.ls.apple.com
 icloud.com
 itunes.com
 itunes.apple.com
+itunes.apple.com.edgekey.net
 pd.itunes.apple.com
 push.apple.com
 speedysub.itunes.apple.com

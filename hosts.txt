@@ -216,7 +216,6 @@
 0.0.0.0 iprofiles.apple.com
 0.0.0.0 isg-apple.com.akadns.net
 0.0.0.0 itc.mzstatic.com
-0.0.0.0 itunes.apple.com.edgekey.net
 0.0.0.0 itunesconnect.apple.com
 0.0.0.0 itunesu.itunes.apple.com
 0.0.0.0 launch.apple.com

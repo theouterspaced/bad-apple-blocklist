@@ -216,7 +216,6 @@ local=/iphonesubmissions.v.aaplimg.com/
 local=/iprofiles.apple.com/
 local=/isg-apple.com.akadns.net/
 local=/itc.mzstatic.com/
-local=/itunes.apple.com.edgekey.net/
 local=/itunesconnect.apple.com/
 local=/itunesu.itunes.apple.com/
 local=/launch.apple.com/
