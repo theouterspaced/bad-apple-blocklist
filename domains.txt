@@ -38,8 +38,6 @@ api.videos.apple.com
 app-measurement.com
 app-site-association.cdn-apple.com
 appldnld.apple.com
-apple-dns.net
-apple.com.edgekey.net
 apple.com.edgekey.net.globalredir.akadns.net
 appleglobal.102.112.2o7.net
 appleglobal.112.2o7.net
@@ -163,7 +161,6 @@ fr51p02sa.guzzoni-apple.com.akadns.net
 friend.gc.apple.com
 ftreporter.push.apple.com
 gateway-carry.icloud.com
-gateway.fe2.apple-dns.net
 gblon.ce.apple-dns.net
 gbman.ce.apple-dns.net
 gcs-eu-00002.content-storage-download.googleapis.com

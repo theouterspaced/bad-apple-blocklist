@@ -38,8 +38,6 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 app-site-association.cdn-apple.com
 0.0.0.0 appldnld.apple.com
-0.0.0.0 apple-dns.net
-0.0.0.0 apple.com.edgekey.net
 0.0.0.0 apple.com.edgekey.net.globalredir.akadns.net
 0.0.0.0 appleglobal.102.112.2o7.net
 0.0.0.0 appleglobal.112.2o7.net
@@ -163,7 +161,6 @@
 0.0.0.0 friend.gc.apple.com
 0.0.0.0 ftreporter.push.apple.com
 0.0.0.0 gateway-carry.icloud.com
-0.0.0.0 gateway.fe2.apple-dns.net
 0.0.0.0 gblon.ce.apple-dns.net
 0.0.0.0 gbman.ce.apple-dns.net
 0.0.0.0 gcs-eu-00002.content-storage-download.googleapis.com

@@ -2,10 +2,13 @@
 amp-api-edge.apps.apple.com
 amp-api-updates.apps.apple.com
 apple.com
+apple.com.edgekey.net
+apple-dns.net
 apps.apple.com
 bag.itunes.apple.com
 fpinit.itunes.apple.com
 gateway.apple.com
+gateway.fe2.apple-dns.net
 gateway.icloud.com
 gdmf.apple.com
 gs.apple.com
@@ -20,4 +23,5 @@ updates.cdn-apple.com
 www.apple.com
 www.icloud.com
 www.itunes.com
-# remove any load error, SERVFAIL...
+# remove invalid domains, servfails
+
