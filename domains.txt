@@ -25,6 +25,7 @@ api-glb-den.smoot.apple.com
 api-glb-drf.smoot.apple.com
 api-glb-fra.smoot.apple.com
 api-glb-lon.smoot.apple.com
+api-glb-man.smoot.apple.com
 api-glb-nyc.smoot.apple.com
 api-glb-sea.smoot.apple.com
 api-glb.smoot.apple.com
@@ -379,11 +380,13 @@ supportmetrics.apple.com
 supportmetrics.v.aaplimg.com
 swcdn.apple.com
 swcdn.apple.com.akadns.net
+swcdnlocator.apple.com
 swdist.apple.com
 swdlp-static.apple.com
 swdlp.apple.com
 swdownload.apple.com
 swpost.apple.com
+swquery.apple.com
 swscan-cdn.apple.com.akadns.net
 swscan.apple.com
 tbsc.apple.com
