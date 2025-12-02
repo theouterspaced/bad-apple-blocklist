@@ -52,6 +52,7 @@
 0.0.0.0 basejumper.apple.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 bn2-client-s.msnmessenger.msn.com.akadns.net
+0.0.0.0 bookkeeper.itunes.apple.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 bpapi.v.aaplimg.com
 0.0.0.0 browser-intake-datadoghq.com
@@ -301,6 +302,7 @@
 0.0.0.0 pipe.cloudapp.aria.akadns.net
 0.0.0.0 pipe.prd.skypedata.akadns.net
 0.0.0.0 porco.apple.com
+0.0.0.0 ppq.apple.com
 0.0.0.0 prd-usw2-requestattribution-iad.apple.com
 0.0.0.0 prd.col.aria.browser.skypedata.akadns.net
 0.0.0.0 prd.col.aria.mobile.skypedata.akadns.net
@@ -397,6 +399,7 @@
 0.0.0.0 td4.apple.com
 0.0.0.0 testflightapp.com
 0.0.0.0 tf-feedback.itunes.apple.com
+0.0.0.0 time-ios.apple.com
 0.0.0.0 time.g.aaplimg.com
 0.0.0.0 timestamp.apple.com
 0.0.0.0 tools.applemediaservices.com

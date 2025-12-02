@@ -52,6 +52,7 @@
 ||basejumper.apple.com^
 ||beacon.shazam.com^
 ||bn2-client-s.msnmessenger.msn.com.akadns.net^
+||bookkeeper.itunes.apple.com^
 ||books-analytics-events.apple.com^
 ||bpapi.v.aaplimg.com^
 ||browser-intake-datadoghq.com^
@@ -301,6 +302,7 @@
 ||pipe.cloudapp.aria.akadns.net^
 ||pipe.prd.skypedata.akadns.net^
 ||porco.apple.com^
+||ppq.apple.com^
 ||prd-usw2-requestattribution-iad.apple.com^
 ||prd.col.aria.browser.skypedata.akadns.net^
 ||prd.col.aria.mobile.skypedata.akadns.net^
@@ -397,6 +399,7 @@
 ||td4.apple.com^
 ||testflightapp.com^
 ||tf-feedback.itunes.apple.com^
+||time-ios.apple.com^
 ||time.g.aaplimg.com^
 ||timestamp.apple.com^
 ||tools.applemediaservices.com^
