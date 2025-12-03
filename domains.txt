@@ -7,7 +7,6 @@ accertify.mzstatic.com
 acfeedbackws.icloud.com
 advertising.apple.com
 advp.apple.com
-albert.apple.com
 amp-account.apps.apple.com
 amp-api.apps.apple.com
 aolauth.icloud.com
@@ -31,11 +30,9 @@ api-glb-sea.smoot.apple.com
 api-glb.smoot.apple.com
 api.edu.apple.com
 api.itunes.apple.com
-api.segment.io
 api.smoot-apple.com.akadns.net
 api.smoot.apple.com
 api.videos.apple.com
-app-measurement.com
 app-site-association.cdn-apple.com
 appldnld.apple.com
 apple.com.edgekey.net.globalredir.akadns.net
@@ -48,14 +45,12 @@ apps.itunes-nocookie.com
 apsu.apple.com
 attwifi.apple.com
 autolinkmaker.itunes.apple.com
-banners.itunes.apple.com
 basejumper.apple.com
 beacon.shazam.com
 bn2-client-s.msnmessenger.msn.com.akadns.net
 bookkeeper.itunes.apple.com
 books-analytics-events.apple.com
 bpapi.v.aaplimg.com
-browser-intake-datadoghq.com
 buy.apps.apple.com
 ca.iadsdk.apple.com
 canary.mask.apple-dns.net
@@ -106,7 +101,6 @@ depot.info.apple.com
 desktop-music-legacy.itunes.apple.com
 desktop-music.itunes.apple.com
 desktop-store.itunes.apple.com
-device-metrics-us-2.amazon.com
 device-metrics.apple.com
 deviceservices-external.apple.com
 devimages-cdn.apple.com
@@ -167,7 +161,6 @@ gcs-eu-00002.content-storage-download.googleapis.com
 gg.apple.com
 gil.apple.com.akadns.net
 gir.apple.com
-growth-pa.googleapis.com
 gsas.apple.com.akadns.net
 gsp-ssl.ls2-apple.com.akadns.net
 gsp2.apple.com
@@ -205,7 +198,6 @@ init-p01md.apple.com
 init.gc.apple.com
 ink.apple.com
 internalcheck.apple.com
-iphone-id.apple.com
 iphone-ld.apple.com
 iphone-services.apple.com
 iphone-wu.apple.com
@@ -245,10 +237,8 @@ metrics.apple.com
 metrics.icloud.com
 metrics.mzstatic.com
 mobileapp.apple.com
-mobilenetworkscoring-pa.googleapis.com
 msc-dct-prod.msc.apple.com
 msg-media.valueclick.akadns.net
-msmetrics.ws.sonos.com
 mt-ingestion-service-mr22.itunes-apple.com.akadns.net
 mt-ingestion-service-pv.itunes-apple.com.akadns.net
 mt-ingestion-service-pv.itunes.apple.com
@@ -265,10 +255,6 @@ news-sports-events.apple.com
 news.iadsdk.apple.com
 notes-analytics-events.apple.com
 ns.itunes.apple.com
-nserver.apple.com
-nserver.asia.apple.com
-nserver.euro.apple.com
-nserver2.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp2.g.aaplimg.com
 odin-signals.apple.com
@@ -282,7 +268,6 @@ outsideapple.apple.com.akadns.net
 p01-swscan.apple.com.akadns.net
 p13n-relay.apple.com
 p26-btmmdns.icloud.com
-pagead2.googlesyndication.com
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.cdn-apple.com.akadns.net
@@ -294,10 +279,8 @@ pba.apple.com
 pba0.apple.com
 pcr.apple.com
 pd-st.itunes.apple.com
-pdate.googleapis.com
 performance-partners.apple.com
 phobos.apple.com
-phobos.apple.com.lp.mydas.mobi
 phonesubmissions.apple.com
 pipe.cloudapp.aria.akadns.net
 pipe.prd.skypedata.akadns.net
@@ -316,7 +299,6 @@ prod-news-notification-events.v.aaplimg.com
 prod-w.nexus.live.com.akadns.net
 prod.omextemplates.live.com.akadns.net
 proddav.apple.com
-profile.gc.apple.com
 proxy-skadnetwork.apple.com
 proxy.gslb.apple.com
 pubsbuild.apple.com
@@ -331,11 +313,9 @@ radio-quickplay.itunes.apple.com
 radio.itunes.apple.com
 redcarpet.apple.com
 relay.apple-dns.net
-sa.apple.com
 safety-alert.apple.com
 sandbox.itunes.apple.com
 sb.music.apple.com
-sb.scorecardresearch.com
 sb.tv.apple.com
 scento.apple.com
 se-edge.itunes.apple.com
@@ -363,7 +343,6 @@ smp-device-content.apple.com
 sp.itunes.apple.com
 sp11p03sa.guzzoni-apple.com.akadns.net
 ssl.apple.com
-ssl.google-analytics.com
 st14p02sa.guzzoni-apple.com.akadns.net
 static.cdn-apple.com
 static.deviceservices.apple.com
@@ -435,7 +414,6 @@ wu-quotes.apple.com
 wu-stocks.apple.com
 wu.apple.com
 wu.apple.com.akadns.net
-www.googleadservices.com
 www.iadsdk.apple.com
 xp-cdn-lb.itunes-apple.com.akadns.net
 xp-cdn.apple.com

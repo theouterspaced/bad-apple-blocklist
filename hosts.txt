@@ -7,7 +7,6 @@
 0.0.0.0 acfeedbackws.icloud.com
 0.0.0.0 advertising.apple.com
 0.0.0.0 advp.apple.com
-0.0.0.0 albert.apple.com
 0.0.0.0 amp-account.apps.apple.com
 0.0.0.0 amp-api.apps.apple.com
 0.0.0.0 aolauth.icloud.com
@@ -31,11 +30,9 @@
 0.0.0.0 api-glb.smoot.apple.com
 0.0.0.0 api.edu.apple.com
 0.0.0.0 api.itunes.apple.com
-0.0.0.0 api.segment.io
 0.0.0.0 api.smoot-apple.com.akadns.net
 0.0.0.0 api.smoot.apple.com
 0.0.0.0 api.videos.apple.com
-0.0.0.0 app-measurement.com
 0.0.0.0 app-site-association.cdn-apple.com
 0.0.0.0 appldnld.apple.com
 0.0.0.0 apple.com.edgekey.net.globalredir.akadns.net
@@ -48,14 +45,12 @@
 0.0.0.0 apsu.apple.com
 0.0.0.0 attwifi.apple.com
 0.0.0.0 autolinkmaker.itunes.apple.com
-0.0.0.0 banners.itunes.apple.com
 0.0.0.0 basejumper.apple.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 bn2-client-s.msnmessenger.msn.com.akadns.net
 0.0.0.0 bookkeeper.itunes.apple.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 bpapi.v.aaplimg.com
-0.0.0.0 browser-intake-datadoghq.com
 0.0.0.0 buy.apps.apple.com
 0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 canary.mask.apple-dns.net
@@ -106,7 +101,6 @@
 0.0.0.0 desktop-music-legacy.itunes.apple.com
 0.0.0.0 desktop-music.itunes.apple.com
 0.0.0.0 desktop-store.itunes.apple.com
-0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 device-metrics.apple.com
 0.0.0.0 deviceservices-external.apple.com
 0.0.0.0 devimages-cdn.apple.com
@@ -167,7 +161,6 @@
 0.0.0.0 gg.apple.com
 0.0.0.0 gil.apple.com.akadns.net
 0.0.0.0 gir.apple.com
-0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 gsas.apple.com.akadns.net
 0.0.0.0 gsp-ssl.ls2-apple.com.akadns.net
 0.0.0.0 gsp2.apple.com
@@ -205,7 +198,6 @@
 0.0.0.0 init.gc.apple.com
 0.0.0.0 ink.apple.com
 0.0.0.0 internalcheck.apple.com
-0.0.0.0 iphone-id.apple.com
 0.0.0.0 iphone-ld.apple.com
 0.0.0.0 iphone-services.apple.com
 0.0.0.0 iphone-wu.apple.com
@@ -245,10 +237,8 @@
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 mobileapp.apple.com
-0.0.0.0 mobilenetworkscoring-pa.googleapis.com
 0.0.0.0 msc-dct-prod.msc.apple.com
 0.0.0.0 msg-media.valueclick.akadns.net
-0.0.0.0 msmetrics.ws.sonos.com
 0.0.0.0 mt-ingestion-service-mr22.itunes-apple.com.akadns.net
 0.0.0.0 mt-ingestion-service-pv.itunes-apple.com.akadns.net
 0.0.0.0 mt-ingestion-service-pv.itunes.apple.com
@@ -265,10 +255,6 @@
 0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 ns.itunes.apple.com
-0.0.0.0 nserver.apple.com
-0.0.0.0 nserver.asia.apple.com
-0.0.0.0 nserver.euro.apple.com
-0.0.0.0 nserver2.apple.com
 0.0.0.0 ocsp-lb.apple.com.akadns.net
 0.0.0.0 ocsp2.g.aaplimg.com
 0.0.0.0 odin-signals.apple.com
@@ -282,7 +268,6 @@
 0.0.0.0 p01-swscan.apple.com.akadns.net
 0.0.0.0 p13n-relay.apple.com
 0.0.0.0 p26-btmmdns.icloud.com
-0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pancake.apple.com
 0.0.0.0 pancake.apple.com.edgekey.net
 0.0.0.0 pancake.cdn-apple.com.akadns.net
@@ -294,10 +279,8 @@
 0.0.0.0 pba0.apple.com
 0.0.0.0 pcr.apple.com
 0.0.0.0 pd-st.itunes.apple.com
-0.0.0.0 pdate.googleapis.com
 0.0.0.0 performance-partners.apple.com
 0.0.0.0 phobos.apple.com
-0.0.0.0 phobos.apple.com.lp.mydas.mobi
 0.0.0.0 phonesubmissions.apple.com
 0.0.0.0 pipe.cloudapp.aria.akadns.net
 0.0.0.0 pipe.prd.skypedata.akadns.net
@@ -316,7 +299,6 @@
 0.0.0.0 prod-w.nexus.live.com.akadns.net
 0.0.0.0 prod.omextemplates.live.com.akadns.net
 0.0.0.0 proddav.apple.com
-0.0.0.0 profile.gc.apple.com
 0.0.0.0 proxy-skadnetwork.apple.com
 0.0.0.0 proxy.gslb.apple.com
 0.0.0.0 pubsbuild.apple.com
@@ -331,11 +313,9 @@
 0.0.0.0 radio.itunes.apple.com
 0.0.0.0 redcarpet.apple.com
 0.0.0.0 relay.apple-dns.net
-0.0.0.0 sa.apple.com
 0.0.0.0 safety-alert.apple.com
 0.0.0.0 sandbox.itunes.apple.com
 0.0.0.0 sb.music.apple.com
-0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sb.tv.apple.com
 0.0.0.0 scento.apple.com
 0.0.0.0 se-edge.itunes.apple.com
@@ -363,7 +343,6 @@
 0.0.0.0 sp.itunes.apple.com
 0.0.0.0 sp11p03sa.guzzoni-apple.com.akadns.net
 0.0.0.0 ssl.apple.com
-0.0.0.0 ssl.google-analytics.com
 0.0.0.0 st14p02sa.guzzoni-apple.com.akadns.net
 0.0.0.0 static.cdn-apple.com
 0.0.0.0 static.deviceservices.apple.com
@@ -435,7 +414,6 @@
 0.0.0.0 wu-stocks.apple.com
 0.0.0.0 wu.apple.com
 0.0.0.0 wu.apple.com.akadns.net
-0.0.0.0 www.googleadservices.com
 0.0.0.0 www.iadsdk.apple.com
 0.0.0.0 xp-cdn-lb.itunes-apple.com.akadns.net
 0.0.0.0 xp-cdn.apple.com
