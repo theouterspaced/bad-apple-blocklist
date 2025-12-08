@@ -102,6 +102,7 @@
 0.0.0.0 desktop-music.itunes.apple.com
 0.0.0.0 desktop-store.itunes.apple.com
 0.0.0.0 device-metrics.apple.com
+0.0.0.0 deviceenrollment.apple.com
 0.0.0.0 deviceservices-external.apple.com
 0.0.0.0 devimages-cdn.apple.com
 0.0.0.0 df6ed.apple.com
@@ -228,6 +229,7 @@
 0.0.0.0 mask.apple-dns.net
 0.0.0.0 mask.apple.com
 0.0.0.0 mask.icloud.com
+0.0.0.0 mdmenrollment.apple.com
 0.0.0.0 me.apple-dns.net
 0.0.0.0 members.me.com
 0.0.0.0 messagetracer-whitelist.apple.com

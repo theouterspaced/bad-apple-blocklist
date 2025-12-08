@@ -102,6 +102,7 @@ desktop-music-legacy.itunes.apple.com
 desktop-music.itunes.apple.com
 desktop-store.itunes.apple.com
 device-metrics.apple.com
+deviceenrollment.apple.com
 deviceservices-external.apple.com
 devimages-cdn.apple.com
 df6ed.apple.com
@@ -228,6 +229,7 @@ mask-private-replay.apple.com
 mask.apple-dns.net
 mask.apple.com
 mask.icloud.com
+mdmenrollment.apple.com
 me.apple-dns.net
 members.me.com
 messagetracer-whitelist.apple.com
