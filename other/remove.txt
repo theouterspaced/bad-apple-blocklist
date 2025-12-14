@@ -21,6 +21,7 @@ pd.itunes.apple.com
 push.apple.com
 speedysub.itunes.apple.com
 updates.cdn-apple.com
+updates.g.aaplimg.com
 www.apple.com
 www.icloud.com
 www.itunes.com

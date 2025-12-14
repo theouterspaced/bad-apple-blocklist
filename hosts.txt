@@ -1,4 +1,4 @@
-# November 2025
+# December 2025
 # This is one iPhone user's Apple telemetry and other-stuff blocklist.
 # github.com/theouterspaced/bad-apple-blocklist
 ##
@@ -388,7 +388,6 @@
 0.0.0.0 trackingshipment.apple.com
 0.0.0.0 turn.gc.apple.com
 0.0.0.0 updates-http.cdn-apple.com
-0.0.0.0 updates.g.aaplimg.com
 0.0.0.0 upp.itunes.apple.com
 0.0.0.0 usbos.ce.apple-dns.net
 0.0.0.0 uschi.ce.apple-dns.net
