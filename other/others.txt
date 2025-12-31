@@ -5,7 +5,7 @@ https://raw.githubusercontent.com/eli86x/blocklist-pihole/main/apple-telemetry-b
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.apple.txt
 https://raw.githubusercontent.com/liamengland1/mischosts/master/apple-telemetry
 https://raw.githubusercontent.com/lkspodmol/apple-update-blocking-dns/main/hosts.txt
-https://raw.githubusercontent.com/m-akrami/InternetBlocklists/main/apple-doh.txt
+https://raw.githubusercontent.com/m-akrami/internet-blocklists/main/lists/dns/block/apple-doh.txt
 https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple
 https://raw.githubusercontent.com/nglrossi/pfblockerng/main/list.txt
 https://raw.githubusercontent.com/sambow23/appledns-blocklist/main/block.txt
