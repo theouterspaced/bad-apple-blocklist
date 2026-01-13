@@ -1,5 +1,6 @@
 # others.txt
 https://raw.githubusercontent.com/Cebeerre/dnsblocklists/main/webservices/icloud_private_relay_asterisk.txt
+https://raw.githubusercontent.com/celenityy/BadBlock/pages/wildcards-star/apple.txt
 https://raw.githubusercontent.com/DarkGames26/Apple-Relay-Blocklist/main/apple_relay_block.lst
 https://raw.githubusercontent.com/eli86x/blocklist-pihole/main/apple-telemetry-block
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.apple.txt
