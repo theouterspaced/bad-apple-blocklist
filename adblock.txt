@@ -40,6 +40,7 @@
 ||app-site-association.cdn-apple.com^
 ||appldnld.apple.com^
 ||apple.com.edgekey.net.globalredir.akadns.net^
+||apple.comscoreresearch.com^
 ||apple.netscape.com^
 ||appleglobal.102.112.2o7.net^
 ||appleglobal.112.2o7.net^
@@ -52,6 +53,7 @@
 ||attwifi.apple.com^
 ||autolinkmaker.itunes.apple.com^
 ||bag-smoot.v.aaplimg.com^
+||banners.itunes.apple.com^
 ||basejumper.apple.com^
 ||beacon.shazam.com^
 ||beta.apple.com^
@@ -211,10 +213,12 @@
 ||hello.connectivity.me.com.akadns.net^
 ||homesharing.itunes.apple.com^
 ||humb.apple.com^
+||iad-apple.com^
 ||iad-apple.com.akadns.net^
 ||iad.apple.com^
 ||iadcontent-lb.apple.com.akadns.net^
 ||iadcontent.apple.com^
+||iadctest.qwapi.com^
 ||iadmoo.apple.com^
 ||iadsdk.apple.com^
 ||iadsdk.apple.com.akadns.net^
@@ -267,6 +271,7 @@
 ||livepage.apple.com^
 ||lookup-api.apple.com^
 ||lookup.apple.com^
+||ls.advp.apple.com^
 ||mac-services.apple.com^
 ||marimba.apple.com^
 ||marketing.services.apple^
@@ -354,12 +359,14 @@
 ||prod.omextemplates.live.com.akadns.net^
 ||proddav.apple.com^
 ||proxy-skadnetwork.apple.com^
+||proxy.advp.apple.com^
 ||proxy.gslb.apple.com^
 ||pubsbuild.apple.com^
 ||qa-iad.apple.com^
 ||qtpartners.apple.com^
 ||qtsoftware.apple.com^
 ||quicktimepro.apple.com^
+||qwapi.apple.com^
 ||qwapi.com^
 ||rabat.apple.com^
 ||radarsubmissions.apple.com^
@@ -488,6 +495,9 @@
 ||vpp-app.itunes.apple.com^
 ||weather-analytics-events.apple.com^
 ||web-experience.itunes.apple.com^
+||webproxy-advp.iad-apple.com^
+||webproxy-advp.iad-apple.com.akadns.net^
+||webproxy.advp.apple.com^
 ||webservices.mac.com^
 ||ws-ee-maidsvc.icloud.com^
 ||wu-calculator.apple.com^

@@ -40,6 +40,7 @@
 0.0.0.0 app-site-association.cdn-apple.com
 0.0.0.0 appldnld.apple.com
 0.0.0.0 apple.com.edgekey.net.globalredir.akadns.net
+0.0.0.0 apple.comscoreresearch.com
 0.0.0.0 apple.netscape.com
 0.0.0.0 appleglobal.102.112.2o7.net
 0.0.0.0 appleglobal.112.2o7.net
@@ -52,6 +53,7 @@
 0.0.0.0 attwifi.apple.com
 0.0.0.0 autolinkmaker.itunes.apple.com
 0.0.0.0 bag-smoot.v.aaplimg.com
+0.0.0.0 banners.itunes.apple.com
 0.0.0.0 basejumper.apple.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 beta.apple.com
@@ -211,10 +213,12 @@
 0.0.0.0 hello.connectivity.me.com.akadns.net
 0.0.0.0 homesharing.itunes.apple.com
 0.0.0.0 humb.apple.com
+0.0.0.0 iad-apple.com
 0.0.0.0 iad-apple.com.akadns.net
 0.0.0.0 iad.apple.com
 0.0.0.0 iadcontent-lb.apple.com.akadns.net
 0.0.0.0 iadcontent.apple.com
+0.0.0.0 iadctest.qwapi.com
 0.0.0.0 iadmoo.apple.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 iadsdk.apple.com.akadns.net
@@ -267,6 +271,7 @@
 0.0.0.0 livepage.apple.com
 0.0.0.0 lookup-api.apple.com
 0.0.0.0 lookup.apple.com
+0.0.0.0 ls.advp.apple.com
 0.0.0.0 mac-services.apple.com
 0.0.0.0 marimba.apple.com
 0.0.0.0 marketing.services.apple
@@ -354,12 +359,14 @@
 0.0.0.0 prod.omextemplates.live.com.akadns.net
 0.0.0.0 proddav.apple.com
 0.0.0.0 proxy-skadnetwork.apple.com
+0.0.0.0 proxy.advp.apple.com
 0.0.0.0 proxy.gslb.apple.com
 0.0.0.0 pubsbuild.apple.com
 0.0.0.0 qa-iad.apple.com
 0.0.0.0 qtpartners.apple.com
 0.0.0.0 qtsoftware.apple.com
 0.0.0.0 quicktimepro.apple.com
+0.0.0.0 qwapi.apple.com
 0.0.0.0 qwapi.com
 0.0.0.0 rabat.apple.com
 0.0.0.0 radarsubmissions.apple.com
@@ -488,6 +495,9 @@
 0.0.0.0 vpp-app.itunes.apple.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 web-experience.itunes.apple.com
+0.0.0.0 webproxy-advp.iad-apple.com
+0.0.0.0 webproxy-advp.iad-apple.com.akadns.net
+0.0.0.0 webproxy.advp.apple.com
 0.0.0.0 webservices.mac.com
 0.0.0.0 ws-ee-maidsvc.icloud.com
 0.0.0.0 wu-calculator.apple.com
