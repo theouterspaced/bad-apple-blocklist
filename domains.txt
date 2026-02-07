@@ -1,4 +1,4 @@
-# January 2026
+# February 2026
 # This is one iPhone user's Apple telemetry and other-stuff blocklist.
 # github.com/theouterspaced/bad-apple-blocklist
 ##
@@ -348,6 +348,7 @@ ppq.apple.com
 prd-usw2-requestattribution-iad.apple.com
 prd.col.aria.browser.skypedata.akadns.net
 prd.col.aria.mobile.skypedata.akadns.net
+probe.me.apple-dns.net
 prod-event-relay-api.v.aaplimg.com
 prod-event-relay-books-api.v.aaplimg.com
 prod-event-relay-notes-api.v.aaplimg.com
@@ -408,6 +409,7 @@ settings.crashlytics.com
 siri-search.itunes.apple.com
 siri.apple.com
 sitemaps.itunes.apple.com
+skadnetwork.iad-apple.com.akadns.net
 skl.apple.com
 smoot-api-glb.v.aaplimg.com
 smoot-api-safari-ause1a.v.aaplimg.com
@@ -510,6 +512,7 @@ wu-stocks.apple.com
 wu.apple.com
 wu.apple.com.akadns.net
 www.iadsdk.apple.com
+www.qwapi.com
 xp-cdn-lb.itunes-apple.com.akadns.net
 xp-cdn.apple.com
 xp-daf.apple.com.edgekey.net
@@ -522,4 +525,3 @@ xp.v.aaplimg.com
 z2r0y.apple.com
 zeusmedia.apple.com
 zeusmedia.g.aaplimg.com
-

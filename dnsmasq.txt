@@ -1,4 +1,4 @@
-# January 2026
+# February 2026
 # This is one iPhone user's Apple telemetry and other-stuff blocklist.
 # github.com/theouterspaced/bad-apple-blocklist
 ##
@@ -348,6 +348,7 @@ local=/ppq.apple.com/
 local=/prd-usw2-requestattribution-iad.apple.com/
 local=/prd.col.aria.browser.skypedata.akadns.net/
 local=/prd.col.aria.mobile.skypedata.akadns.net/
+local=/probe.me.apple-dns.net/
 local=/prod-event-relay-api.v.aaplimg.com/
 local=/prod-event-relay-books-api.v.aaplimg.com/
 local=/prod-event-relay-notes-api.v.aaplimg.com/
@@ -408,6 +409,7 @@ local=/settings.crashlytics.com/
 local=/siri-search.itunes.apple.com/
 local=/siri.apple.com/
 local=/sitemaps.itunes.apple.com/
+local=/skadnetwork.iad-apple.com.akadns.net/
 local=/skl.apple.com/
 local=/smoot-api-glb.v.aaplimg.com/
 local=/smoot-api-safari-ause1a.v.aaplimg.com/
@@ -510,6 +512,7 @@ local=/wu-stocks.apple.com/
 local=/wu.apple.com/
 local=/wu.apple.com.akadns.net/
 local=/www.iadsdk.apple.com/
+local=/www.qwapi.com/
 local=/xp-cdn-lb.itunes-apple.com.akadns.net/
 local=/xp-cdn.apple.com/
 local=/xp-daf.apple.com.edgekey.net/
@@ -522,4 +525,3 @@ local=/xp.v.aaplimg.com/
 local=/z2r0y.apple.com/
 local=/zeusmedia.apple.com/
 local=/zeusmedia.g.aaplimg.com/
-
