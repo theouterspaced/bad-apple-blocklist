@@ -55,7 +55,6 @@ bag-smoot.v.aaplimg.com
 banners.itunes.apple.com
 basejumper.apple.com
 beacon.shazam.com
-beta.apple.com
 beta.v.aaplimg.com
 bn2-client-s.msnmessenger.msn.com.akadns.net
 bookkeeper.itunes.apple.com

@@ -55,7 +55,6 @@ local=/bag-smoot.v.aaplimg.com/
 local=/banners.itunes.apple.com/
 local=/basejumper.apple.com/
 local=/beacon.shazam.com/
-local=/beta.apple.com/
 local=/beta.v.aaplimg.com/
 local=/bn2-client-s.msnmessenger.msn.com.akadns.net/
 local=/bookkeeper.itunes.apple.com/

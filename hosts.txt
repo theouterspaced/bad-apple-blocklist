@@ -55,7 +55,6 @@
 0.0.0.0 banners.itunes.apple.com
 0.0.0.0 basejumper.apple.com
 0.0.0.0 beacon.shazam.com
-0.0.0.0 beta.apple.com
 0.0.0.0 beta.v.aaplimg.com
 0.0.0.0 bn2-client-s.msnmessenger.msn.com.akadns.net
 0.0.0.0 bookkeeper.itunes.apple.com

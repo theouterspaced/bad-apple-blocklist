@@ -7,6 +7,7 @@ apple.com
 apple.com.edgekey.net
 apps.apple.com
 bag.itunes.apple.com
+beta.apple.com
 fpinit.itunes.apple.com
 gateway.apple.com
 gateway.fe2.apple-dns.net
