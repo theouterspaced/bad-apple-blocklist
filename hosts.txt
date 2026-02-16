@@ -38,7 +38,6 @@
 0.0.0.0 api.smoot.apple.com
 0.0.0.0 api.videos.apple.com
 0.0.0.0 app-site-association.cdn-apple.com
-0.0.0.0 appldnld.apple.com
 0.0.0.0 apple.com.edgekey.net.globalredir.akadns.net
 0.0.0.0 apple.comscoreresearch.com
 0.0.0.0 apple.netscape.com
@@ -194,7 +193,6 @@
 0.0.0.0 gil.apple.com.akadns.net
 0.0.0.0 gir.apple.com
 0.0.0.0 graffiti-tags.apple.com
-0.0.0.0 gsas.apple.com.akadns.net
 0.0.0.0 gsp-ssl.ls2-apple.com.akadns.net
 0.0.0.0 gsp10-ssl.apple.com
 0.0.0.0 gsp10-ssl.ls-apple.com.akadns.net
@@ -288,7 +286,6 @@
 0.0.0.0 members.me.com
 0.0.0.0 messagetracer-whitelist.apple.com
 0.0.0.0 messaging.metrics.icloud.com
-0.0.0.0 mesu.apple.com
 0.0.0.0 metrics.apple.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.mzstatic.com
@@ -452,17 +449,13 @@
 0.0.0.0 survey.origin-apple.com.akadns.net
 0.0.0.0 swallow-apple-com.v.aaplimg.com
 0.0.0.0 swallow.apple.com
-0.0.0.0 swcdn.apple.com
 0.0.0.0 swcdn.apple.com.akadns.net
-0.0.0.0 swcdnlocator.apple.com
 0.0.0.0 swdist.apple.com
 0.0.0.0 swdlp-static.apple.com
 0.0.0.0 swdlp.apple.com
-0.0.0.0 swdownload.apple.com
 0.0.0.0 swpost.apple.com
 0.0.0.0 swquery.apple.com
 0.0.0.0 swscan-cdn.apple.com.akadns.net
-0.0.0.0 swscan.apple.com
 0.0.0.0 tbsc.apple.com
 0.0.0.0 tbsc.apple.com.akadns.net
 0.0.0.0 td1.apple.com
@@ -496,7 +489,6 @@
 0.0.0.0 vocabulary.itunes.apple.com
 0.0.0.0 vpp-app.itunes.apple.com
 0.0.0.0 weather-analytics-events.apple.com
-0.0.0.0 web-experience.itunes.apple.com
 0.0.0.0 webproxy-advp.iad-apple.com
 0.0.0.0 webproxy-advp.iad-apple.com.akadns.net
 0.0.0.0 webproxy.advp.apple.com
