@@ -10,11 +10,13 @@ ads.apple.com.akadns.net
 ads.apple.com.edgesuite.net
 advertising.apple.com
 advp.apple.com
+africa-mask.wrr.mask.apple-dns.net
 amp-account.apps.apple.com
 amp-api.apps.apple.com
 amsui.apple.com
 aolauth.icloud.com
 aolauthtest.icloud.com
+apac-mask.wrr.mask.apple-dns.net
 apfw.apple.com
 api-adservices.apple.com
 api-aka.smoot.apple.com
@@ -38,13 +40,18 @@ api.smoot-apple.com.akadns.net
 api.smoot.apple.com
 api.videos.apple.com
 app-site-association.cdn-apple.com
+apple-carry-relay.cloudflare.com
+apple-relay.akamaized.net
+apple-relay.apple.com
+apple-relay.cloudflare.com
+apple-relay.fastly-edge.com
+apple-relay.mask.apple-dns.net
 apple.com.edgekey.net.globalredir.akadns.net
 apple.comscoreresearch.com
 apple.netscape.com
 appleglobal.102.112.2o7.net
 appleglobal.112.2o7.net
 appleid-ut.corp.apple.com
-appleid.apple.com
 applemediaservices.com
 appleproxy.com
 apps.itunes-nocookie.com
@@ -155,6 +162,7 @@ edge-045.gblon.ce.apple-dns.net
 edge-search.itunes.apple.com
 edge.icloud.apple-dns.net
 embed.itunes.apple.com
+emea-mask.wrr.mask.apple-dns.net
 eu-irl-00001.s3.dualstack.eu-west-1.amazonaws.com
 experiments.apple.com
 experiments.apple.com.edgekey.net
@@ -274,6 +282,7 @@ marimba.apple.com
 marketing.services.apple
 mask-api.fe2.apple-dns.net
 mask-api.icloud.com
+mask-boot.icloud.com
 mask-canary.icloud.com
 mask-h2.icloud.com
 mask-private-replay.apple.com
@@ -307,6 +316,7 @@ news-events.apple.com
 news-notification-events.apple.com
 news-sports-events.apple.com
 news.iadsdk.apple.com
+north-america-mask.wrr.mask.apple-dns.net
 notes-analytics-events.apple.com
 ns.itunes.apple.com
 ocsp-lb.apple.com.akadns.net
@@ -418,6 +428,7 @@ smoot.apple.com.cn
 smoot.g.aaplimg.com
 smoot.v.aaplimg.com
 smp-device-content.apple.com
+south-america-mask.wrr.mask.apple-dns.net
 sp-cdn.itunes-apple.com.akadns.net
 sp.itunes.apple.com
 sp.itunes.apple.com.edgekey.net
@@ -453,7 +464,6 @@ swdist.apple.com
 swdlp-static.apple.com
 swdlp.apple.com
 swpost.apple.com
-swquery.apple.com
 swscan-cdn.apple.com.akadns.net
 tbsc.apple.com
 tbsc.apple.com.akadns.net
@@ -492,6 +502,7 @@ webproxy-advp.iad-apple.com
 webproxy-advp.iad-apple.com.akadns.net
 webproxy.advp.apple.com
 webservices.mac.com
+wrr.mask.apple-dns.net
 ws-ee-maidsvc.icloud.com
 wu-calculator.apple.com
 wu-charts.apple.com

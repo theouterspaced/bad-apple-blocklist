@@ -5,6 +5,7 @@ appldnld.apple.com
 apple-dns.net
 apple.com
 apple.com.edgekey.net
+appleid.apple.com
 apps.apple.com
 bag.itunes.apple.com
 beta.apple.com
@@ -26,8 +27,8 @@ push.apple.com
 speedysub.itunes.apple.com
 swcdn.apple.com
 swcdnlocator.apple.com
-swcdnlocator.apple.com
 swdownload.apple.com
+swquery.apple.com
 swscan.apple.com
 updates.cdn-apple.com
 updates.g.aaplimg.com

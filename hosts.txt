@@ -10,11 +10,13 @@
 0.0.0.0 ads.apple.com.edgesuite.net
 0.0.0.0 advertising.apple.com
 0.0.0.0 advp.apple.com
+0.0.0.0 africa-mask.wrr.mask.apple-dns.net
 0.0.0.0 amp-account.apps.apple.com
 0.0.0.0 amp-api.apps.apple.com
 0.0.0.0 amsui.apple.com
 0.0.0.0 aolauth.icloud.com
 0.0.0.0 aolauthtest.icloud.com
+0.0.0.0 apac-mask.wrr.mask.apple-dns.net
 0.0.0.0 apfw.apple.com
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 api-aka.smoot.apple.com
@@ -38,13 +40,18 @@
 0.0.0.0 api.smoot.apple.com
 0.0.0.0 api.videos.apple.com
 0.0.0.0 app-site-association.cdn-apple.com
+0.0.0.0 apple-carry-relay.cloudflare.com
+0.0.0.0 apple-relay.akamaized.net
+0.0.0.0 apple-relay.apple.com
+0.0.0.0 apple-relay.cloudflare.com
+0.0.0.0 apple-relay.fastly-edge.com
+0.0.0.0 apple-relay.mask.apple-dns.net
 0.0.0.0 apple.com.edgekey.net.globalredir.akadns.net
 0.0.0.0 apple.comscoreresearch.com
 0.0.0.0 apple.netscape.com
 0.0.0.0 appleglobal.102.112.2o7.net
 0.0.0.0 appleglobal.112.2o7.net
 0.0.0.0 appleid-ut.corp.apple.com
-0.0.0.0 appleid.apple.com
 0.0.0.0 applemediaservices.com
 0.0.0.0 appleproxy.com
 0.0.0.0 apps.itunes-nocookie.com
@@ -155,6 +162,7 @@
 0.0.0.0 edge-search.itunes.apple.com
 0.0.0.0 edge.icloud.apple-dns.net
 0.0.0.0 embed.itunes.apple.com
+0.0.0.0 emea-mask.wrr.mask.apple-dns.net
 0.0.0.0 eu-irl-00001.s3.dualstack.eu-west-1.amazonaws.com
 0.0.0.0 experiments.apple.com
 0.0.0.0 experiments.apple.com.edgekey.net
@@ -274,6 +282,7 @@
 0.0.0.0 marketing.services.apple
 0.0.0.0 mask-api.fe2.apple-dns.net
 0.0.0.0 mask-api.icloud.com
+0.0.0.0 mask-boot.icloud.com
 0.0.0.0 mask-canary.icloud.com
 0.0.0.0 mask-h2.icloud.com
 0.0.0.0 mask-private-replay.apple.com
@@ -307,6 +316,7 @@
 0.0.0.0 news-notification-events.apple.com
 0.0.0.0 news-sports-events.apple.com
 0.0.0.0 news.iadsdk.apple.com
+0.0.0.0 north-america-mask.wrr.mask.apple-dns.net
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 ns.itunes.apple.com
 0.0.0.0 ocsp-lb.apple.com.akadns.net
@@ -418,6 +428,7 @@
 0.0.0.0 smoot.g.aaplimg.com
 0.0.0.0 smoot.v.aaplimg.com
 0.0.0.0 smp-device-content.apple.com
+0.0.0.0 south-america-mask.wrr.mask.apple-dns.net
 0.0.0.0 sp-cdn.itunes-apple.com.akadns.net
 0.0.0.0 sp.itunes.apple.com
 0.0.0.0 sp.itunes.apple.com.edgekey.net
@@ -453,7 +464,6 @@
 0.0.0.0 swdlp-static.apple.com
 0.0.0.0 swdlp.apple.com
 0.0.0.0 swpost.apple.com
-0.0.0.0 swquery.apple.com
 0.0.0.0 swscan-cdn.apple.com.akadns.net
 0.0.0.0 tbsc.apple.com
 0.0.0.0 tbsc.apple.com.akadns.net
@@ -492,6 +502,7 @@
 0.0.0.0 webproxy-advp.iad-apple.com.akadns.net
 0.0.0.0 webproxy.advp.apple.com
 0.0.0.0 webservices.mac.com
+0.0.0.0 wrr.mask.apple-dns.net
 0.0.0.0 ws-ee-maidsvc.icloud.com
 0.0.0.0 wu-calculator.apple.com
 0.0.0.0 wu-charts.apple.com

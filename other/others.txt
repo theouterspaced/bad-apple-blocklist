@@ -5,6 +5,7 @@ https://raw.githubusercontent.com/celenityy/BadBlock/pages/wildcards-star/apple.
 https://raw.githubusercontent.com/DarkGames26/Apple-Relay-Blocklist/main/apple_relay_block.lst
 https://raw.githubusercontent.com/eli86x/blocklist-pihole/main/apple-telemetry-block
 https://raw.githubusercontent.com/froggeric/DNS-blocklists/main/NoAppleAds
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/share/apple-private-relay.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.apple.txt
 https://raw.githubusercontent.com/liamengland1/mischosts/master/apple-telemetry
 https://raw.githubusercontent.com/lkspodmol/apple-update-blocking-dns/main/hosts.txt
@@ -18,4 +19,3 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_A
 https://raw.githubusercontent.com/thisiiso/blocklist-pihole/main/apple-telemetry-block
 https://raw.githubusercontent.com/mikhanator/iPhone-Blocklist/main/Denylist ## apple block only
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass.txt ## match apple, icloud
-
