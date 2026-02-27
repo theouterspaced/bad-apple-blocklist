@@ -1,4 +1,5 @@
 # others.txt
+https://gitlab.com/TheBlockList/Blocklist/-/raw/master/Apple
 https://raw.githubusercontent.com/carloscomputer/apple.advertising/main/apple.advertising.list.txt
 https://raw.githubusercontent.com/Cebeerre/dnsblocklists/main/webservices/icloud_private_relay_asterisk.txt
 https://raw.githubusercontent.com/celenityy/BadBlock/pages/wildcards-star/apple.txt

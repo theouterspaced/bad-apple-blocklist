@@ -172,6 +172,7 @@
 0.0.0.0 fdereg.apple.com
 0.0.0.0 feedbackws.apple.com
 0.0.0.0 feedbackws.fe.apple-dns.cn
+0.0.0.0 feedbackws.fe.apple-dns.net
 0.0.0.0 feedbackws.fe2.apple-dns.net
 0.0.0.0 feedbackws.icloud.com
 0.0.0.0 feedbackws.icloud.com.cn
