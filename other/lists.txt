@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/DarkGames26/Apple-Relay-Blocklist/main/apple_r
 https://raw.githubusercontent.com/eli86x/blocklist-pihole/main/apple-telemetry-block
 https://raw.githubusercontent.com/froggeric/DNS-blocklists/main/NoAppleAds
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/share/apple-private-relay.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.apple.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.apple.txt
 https://raw.githubusercontent.com/liamengland1/mischosts/master/apple-telemetry
 https://raw.githubusercontent.com/lkspodmol/apple-update-blocking-dns/main/hosts.txt
 https://raw.githubusercontent.com/m-akrami/internet-blocklists/main/lists/dns/block/apple-doh.txt

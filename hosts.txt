@@ -1,4 +1,4 @@
-# February 2026
+# April 2026
 # This is one iPhone user's Apple telemetry and other-stuff blocklist.
 # github.com/theouterspaced/bad-apple-blocklist
 ##
@@ -51,6 +51,7 @@
 0.0.0.0 apple.netscape.com
 0.0.0.0 appleglobal.102.112.2o7.net
 0.0.0.0 appleglobal.112.2o7.net
+0.0.0.0 appleicloud.anondns.net
 0.0.0.0 appleid-ut.corp.apple.com
 0.0.0.0 applemediaservices.com
 0.0.0.0 appleproxy.com
@@ -58,6 +59,7 @@
 0.0.0.0 apsu.apple.com
 0.0.0.0 attwifi.apple.com
 0.0.0.0 autolinkmaker.itunes.apple.com
+0.0.0.0 axm-telemetry.apple.com
 0.0.0.0 bag-smoot.v.aaplimg.com
 0.0.0.0 banners.itunes.apple.com
 0.0.0.0 basejumper.apple.com
@@ -66,6 +68,7 @@
 0.0.0.0 bn2-client-s.msnmessenger.msn.com.akadns.net
 0.0.0.0 bookkeeper.itunes.apple.com
 0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 books-analytics-events.news.apple-dns.net
 0.0.0.0 bpapi.apple.com
 0.0.0.0 bpapi.v.aaplimg.com
 0.0.0.0 buy.apps.apple.com
@@ -93,6 +96,9 @@
 0.0.0.0 cl5.apple.com
 0.0.0.0 client-api.itunes.apple.com
 0.0.0.0 cma.itunes.apple.com
+0.0.0.0 compressor-events.apple.com
+0.0.0.0 comscoreresearch.com
+0.0.0.0 comscoreresearch.net
 0.0.0.0 configuration.apple.com
 0.0.0.0 corp.apple.com
 0.0.0.0 cp7vi.apple.com
@@ -133,6 +139,8 @@
 0.0.0.0 diagnostics.apple.com.akadns.net
 0.0.0.0 diatryma.apple.com
 0.0.0.0 dlc.nike.com.edgekey.net.globalredir.akadns.net
+0.0.0.0 dns.apple.com
+0.0.0.0 dns.apple.com.v.aaplimg.com
 0.0.0.0 dns.applewebkit.dev
 0.0.0.0 doh-dns-apple-com.v.aaplimg.com
 0.0.0.0 doh.dns.apple.com
@@ -170,6 +178,7 @@
 0.0.0.0 fba.v.aaplimg.com
 0.0.0.0 fbs.smoot.apple.com
 0.0.0.0 fdereg.apple.com
+0.0.0.0 fe.apple-dns.net
 0.0.0.0 feedbackws.apple.com
 0.0.0.0 feedbackws.fe.apple-dns.cn
 0.0.0.0 feedbackws.fe.apple-dns.net
@@ -206,6 +215,7 @@
 0.0.0.0 gsp10-ssl.ls-apple.com.akadns.net
 0.0.0.0 gsp10.apple-mapkit.com
 0.0.0.0 gsp2.apple.com
+0.0.0.0 gsp85-ssl.Is.apple.com
 0.0.0.0 gsp85-ssl.is.apple.com
 0.0.0.0 guzzoni-apple-com-edge.v.aaplimg.com
 0.0.0.0 guzzoni-apple-com.v.aaplimg.com
@@ -266,6 +276,7 @@
 0.0.0.0 itc.mzstatic.com
 0.0.0.0 itunesconnect.apple.com
 0.0.0.0 itunesu.itunes.apple.com
+0.0.0.0 iwork-events.apple.com
 0.0.0.0 launch.apple.com
 0.0.0.0 lcdn-locator-usuqo.apple.com.akadns.net
 0.0.0.0 lcdn-locator.apple.com
@@ -281,12 +292,14 @@
 0.0.0.0 mac-services.apple.com
 0.0.0.0 marimba.apple.com
 0.0.0.0 marketing.services.apple
+0.0.0.0 mask-api.fe.apple-dns.net
 0.0.0.0 mask-api.fe2.apple-dns.net
 0.0.0.0 mask-api.icloud.com
 0.0.0.0 mask-boot.icloud.com
 0.0.0.0 mask-canary.icloud.com
 0.0.0.0 mask-h2.icloud.com
 0.0.0.0 mask-private-replay.apple.com
+0.0.0.0 mask-t.apple-dns.net
 0.0.0.0 mask.apple-dns.net
 0.0.0.0 mask.apple.com
 0.0.0.0 mask.icloud.com
@@ -296,6 +309,7 @@
 0.0.0.0 messagetracer-whitelist.apple.com
 0.0.0.0 messaging.metrics.icloud.com
 0.0.0.0 metrics.apple.com
+0.0.0.0 metrics.fe.apple-dns.net
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 mobileapp.apple.com
@@ -313,12 +327,15 @@
 0.0.0.0 networking.apple
 0.0.0.0 news-app-events.apple.com
 0.0.0.0 news-edge.apple.com
+0.0.0.0 news-edge.news.apple-dns.net
 0.0.0.0 news-events.apple.com
+0.0.0.0 news-events.news.apple-dns.net
 0.0.0.0 news-notification-events.apple.com
 0.0.0.0 news-sports-events.apple.com
 0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 north-america-mask.wrr.mask.apple-dns.net
 0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 notes-analytics-events.news.apple-dns.net
 0.0.0.0 ns.itunes.apple.com
 0.0.0.0 ocsp-lb.apple.com.akadns.net
 0.0.0.0 ocsp2.g.aaplimg.com
@@ -356,12 +373,14 @@
 0.0.0.0 prd.col.aria.browser.skypedata.akadns.net
 0.0.0.0 prd.col.aria.mobile.skypedata.akadns.net
 0.0.0.0 probe.me.apple-dns.net
+0.0.0.0 prod-compressor-event-gateway.v.aaplimg.com
 0.0.0.0 prod-event-relay-api.v.aaplimg.com
 0.0.0.0 prod-event-relay-books-api.v.aaplimg.com
 0.0.0.0 prod-event-relay-notes-api.v.aaplimg.com
 0.0.0.0 prod-event-relay-sports-api.v.aaplimg.com
 0.0.0.0 prod-event-relay-stocks-api.v.aaplimg.com
 0.0.0.0 prod-event-relay-weather-api.v.aaplimg.com
+0.0.0.0 prod-iwork-events.v.aaplimg.com
 0.0.0.0 prod-news-notification-events.v.aaplimg.com
 0.0.0.0 prod-w.nexus.live.com.akadns.net
 0.0.0.0 prod.omextemplates.live.com.akadns.net
@@ -413,6 +432,11 @@
 0.0.0.0 serverstatus.apple.com.akadns.net
 0.0.0.0 service.gc.apple.com
 0.0.0.0 settings.crashlytics.com
+0.0.0.0 shazam-events.cdn-apple.com
+0.0.0.0 shazam-events.v.aaplimg.com
+0.0.0.0 shazam-insights-lb.apple.com.akadns.net
+0.0.0.0 shazam-insights.cdn-apple.com
+0.0.0.0 shazam-insights.g.aaplimg.com
 0.0.0.0 siri-search.itunes.apple.com
 0.0.0.0 siri.apple.com
 0.0.0.0 sitemaps.itunes.apple.com
@@ -445,8 +469,10 @@
 0.0.0.0 static.ips.apple.com
 0.0.0.0 stg-iad.apple.com
 0.0.0.0 stocks-analytics-events.apple.com
+0.0.0.0 stocks-analytics-events.news.apple-dns.net
 0.0.0.0 stocks-data-service.apple.com
 0.0.0.0 stocks-edge.apple.com
+0.0.0.0 stocks-edge.news.apple-dns.net
 0.0.0.0 stocks-sparkline.apple.com
 0.0.0.0 store.mzstatic.com
 0.0.0.0 su.iadsdk.apple.com
@@ -483,6 +509,7 @@
 0.0.0.0 turn.gc.apple.com
 0.0.0.0 updates-http.cdn-apple.com
 0.0.0.0 upp.itunes.apple.com
+0.0.0.0 us-east-1-dynamic.meta-weights.apple-dns.net
 0.0.0.0 usbos.ce.apple-dns.net
 0.0.0.0 uschi.ce.apple-dns.net
 0.0.0.0 userpub.itunes.apple.com
@@ -499,6 +526,7 @@
 0.0.0.0 vocabulary.itunes.apple.com
 0.0.0.0 vpp-app.itunes.apple.com
 0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 weather-analytics-events.news.apple-dns.net
 0.0.0.0 webproxy-advp.iad-apple.com
 0.0.0.0 webproxy-advp.iad-apple.com.akadns.net
 0.0.0.0 webproxy.advp.apple.com
