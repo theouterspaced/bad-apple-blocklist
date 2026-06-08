@@ -1,4 +1,3 @@
-# remove.txt
 amp-api-edge.apps.apple.com
 amp-api-updates.apps.apple.com
 appldnld.apple.com
@@ -8,6 +7,7 @@ apple.com.edgekey.net
 appleid.apple.com
 apps.apple.com
 bag.itunes.apple.com
+captive.apple.com
 fpinit.itunes.apple.com
 gateway.apple.com
 gateway.fe2.apple-dns.net

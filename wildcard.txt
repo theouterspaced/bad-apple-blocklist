@@ -1,4 +1,4 @@
-# April 2026
+# June 2026
 # This is one iPhone user's Apple telemetry and other-stuff blocklist.
 # github.com/theouterspaced/bad-apple-blocklist
 ##
@@ -76,7 +76,6 @@
 *.ca.iadsdk.apple.com
 *.camfx-analytics-events.apple.com
 *.canary.mask.apple-dns.net
-*.captive.apple.com
 *.captive.g.aaplimg.com
 *.carrierbundle.itunes.apple.com
 *.cdn-xp-ingest-ab.v.aaplimg.com
