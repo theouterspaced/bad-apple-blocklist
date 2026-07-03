@@ -1,4 +1,4 @@
-! June 2026
+! July 2026
 ! This is one iPhone user's Apple telemetry and other-stuff blocklist.
 ! github.com/theouterspaced/bad-apple-blocklist
 !
@@ -187,6 +187,7 @@
 ||feedbackws.icloud.com.cn^
 ||fides-pol.apple.com^
 ||files.itunes.apple.com^
+||flirfvysba2opz0zmzqs5iuiad.apple.com^
 ||fr51p02sa.guzzoni-apple.com.akadns.net^
 ||friend.gc.apple.com^
 ||ftreporter.push.apple.com^
@@ -418,6 +419,7 @@
 ||searchads.apple.com.edgesuite.net^
 ||searchads.lb-apple.com.akadns.net^
 ||searn.ce.apple-dns.net^
+||securemetrics-cn.v.aaplimg.com^
 ||securemetrics.apple.com^
 ||securemetrics.apple.com.cn^
 ||securemetrics.v.aaplimg.com^
