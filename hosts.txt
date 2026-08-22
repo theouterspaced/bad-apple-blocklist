@@ -489,7 +489,6 @@
 0.0.0.0 swallow-apple-com.v.aaplimg.com
 0.0.0.0 swallow.apple.com
 0.0.0.0 swcdn.apple.com.akadns.net
-0.0.0.0 swdist.apple.com
 0.0.0.0 swdlp-static.apple.com
 0.0.0.0 swdlp.apple.com
 0.0.0.0 swpost.apple.com

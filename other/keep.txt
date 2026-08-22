@@ -8,6 +8,7 @@ appleid.apple.com
 apps.apple.com
 bag.itunes.apple.com
 captive.apple.com
+swdist.apple.com
 fpinit.itunes.apple.com
 gateway.apple.com
 gateway.fe2.apple-dns.net
