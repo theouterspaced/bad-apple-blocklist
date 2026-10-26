@@ -1,4 +1,4 @@
-# July 2026
+# October 2026
 # This is one iPhone user's Apple telemetry and other-stuff blocklist.
 # github.com/theouterspaced/bad-apple-blocklist
 ##
@@ -49,10 +49,13 @@
 0.0.0.0 apple.com.edgekey.net.globalredir.akadns.net
 0.0.0.0 apple.comscoreresearch.com
 0.0.0.0 apple.netscape.com
+0.0.0.0 apple11.nowhearthis.co.uk
+0.0.0.0 apple8.dnsdyn.net
 0.0.0.0 appleglobal.102.112.2o7.net
 0.0.0.0 appleglobal.112.2o7.net
 0.0.0.0 appleicloud.anondns.net
 0.0.0.0 appleid-ut.corp.apple.com
+0.0.0.0 appleishealthy.duckdns.org
 0.0.0.0 applemediaservices.com
 0.0.0.0 appleproxy.com
 0.0.0.0 apps.itunes-nocookie.com
